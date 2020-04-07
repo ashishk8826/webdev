@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://www.bhubaneswarcarrental.com/images/slide6.jpg")
+  }
+  h1
+  {
+    color:blue;
+  }
+  h2
+  {
+    color:#28B463;
+  }
+  .btn button
+  {
+    background-color:#A569BD;
+    font-color:#641E16;
+    font-weight:bold;
+  
+  
+  }
+  .btn button:hover {
+    background-color:#48C9B0 ;
+  }
